@@ -1,0 +1,10 @@
+.venv
+.ipynb
+dataset/
+__pycache__
+__pycache__/
+.pyc
+test/
+train/
+val/
+.pth
